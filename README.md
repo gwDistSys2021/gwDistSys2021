@@ -1,2 +1,2 @@
-# gwDistSys2021
-GW Distributed System 2021
+# Web Template
+Jekyll based template for GW CS.
