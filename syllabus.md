@@ -12,7 +12,7 @@ permalink: /syllabus/
 **Office Hours:**
   
   * Prof. Haghnazar: With appointment 
-  * An-Zheng: With appointment
+  * Zheng An: With appointment
 
 **Course prerequisites:**
   * CSCI 6212 Algorithms (Co-Requisite)
