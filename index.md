@@ -20,11 +20,11 @@ layout: home
 
 ## Announcements ##
 - We will make decision about the exams in the first session
-- The [Final Project](/project/) Milestone 0-1 details have been announced.
+- The [Final Project](/project/) Milestones will be announced.
 - If you have feedback for us, please [fill out this anonymous form!](https://forms.gle/gWCbGB7TRMbPqZxt5)
 - Check the [Syllabus](syllabus/) for more info.
 - Both sections 10 and 11 of CSCI 6421 will meet together *as one class*. You can register for either section with no difference. 
-- You can use use any programming language that you know for projects. But Python, C++, C#, Go and Java would be better options.
+- You can use use Python and Go to get your projects and assignments done.
 - We will use Distributed Systems 3rd edition (https://www.distributed-systems.net/index.php/books/ds3/) as the main reference. Also there are additional papers which are published in high ranked journals that you can find them in the slides each week. 
 - We use [Slack](https://distributedsy-srx8078.slack.com) to communicate and discuss about the topic, assignments and project.
 
@@ -66,14 +66,16 @@ All deadlines are 11:59PM Eastern Time
 			<b>Scalable Execution</b>
 			<br>9/9/2021
 		</td>
-		<td>Lecture Slides </td>
+		<td>
+			Lecture Slides 
+		</td>
 	</tr>
 	<tr>
 		<td style="text-align:right">
 			<i>Tasks:</i>
 		</td> 
 		<td>
-			<a href="/readings.html">Readings in Chapters 1, 3</a> -- Watch <a href="https://gwu.box.com/s/uykp9ouz6fqc8d3psmehq46swmn7i4gm">Azure HWaaS Video</a> -- <a href="hw1/">HW1: Parallel Sum</a> due Tuesday 9/15
+			<a href="/readings.html">Readings in Chapters 1, 3</a> -- Watch <!--<a href="https://gwu.box.com/s/uykp9ouz6fqc8d3psmehq46swmn7i4gm">-->Azure HWaaS Video</a> -- <a href="hw1/">HW1: Parallel Sum</a> due Tuesday 9/15
 		</td>
 	</tr>
 	<tr>
@@ -82,7 +84,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>9/16/2021
 		</td>
 		<td>
-			<a href="/slides/3-communication.pdf">Lecture Slides</a>
+			Lecture Slides
 		</td>
 	</tr>
 	<tr>
@@ -99,7 +101,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>9/23/2021
 		</td>
 		<td>
-			<a href="/slides/4-architecture.pdf">Lecture Slides</a> 
+			Lecture Slides 
 		</td>
 	</tr>
 	<tr>
@@ -116,7 +118,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>9/30/2021
 		</td>
 		<td>
-			<a href="/slides/5-resources.pdf">Lecture Slides</a> 
+			Lecture Slides
 		</td>
 	</tr>
 	<tr>
@@ -133,7 +135,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>10/7/2021
 		</td>
 		<td>
-			<a href="/slides/6-migration.pdf">Lecture Slides</a>
+			Lecture Slides
 		</td>
 	</tr>
 	<tr>
@@ -158,7 +160,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>10/14/2021
 		</td>
 		<td>
-			<a href="/slides/7-coordination-notes.pdf">Lecture Slides</a> -- <a href="/clock-worksheet.pdf">Clock Worksheet</a> and <a href="https://youtu.be/IAI712Kk-O8">Solution Video</a>
+			Lecture Slides <!-- -- <a href="/clock-worksheet.pdf">Clock Worksheet</a> and <a href="https://youtu.be/IAI712Kk-O8">Solution Video</a>-->
 		</td>
 	</tr>
 	<tr>
@@ -175,7 +177,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>10/21/2021
 		</td>
 		<td>
-			<a href="/slides/8-consensus.pdf">Lecture Slides</a>
+			Lecture Slides
 		</td>
 	</tr>
 	<tr>
@@ -192,7 +194,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>10/28/2021
 		</td>
 		<td>
-			<a href="/slides/9-ft-notes.pdf">Lecture Slides</a> 
+			Lecture Slides
 		</td>
 	</tr>
 	<tr>
@@ -209,7 +211,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>11/4/2021
 		</td>
 		<td>
-			<a href="/slides/10-consistency-notes.pdf">Lecture Slides</a> -- <a href="slides/10-consistency-problems.pdf">Consistency Problems Worksheet</a> 
+			Lecture Slides<!-- -- <a href="slides/10-consistency-problems.pdf">Consistency Problems Worksheet</a> -->
 		</td>
 	</tr>
 	<tr>
@@ -248,7 +250,7 @@ All deadlines are 11:59PM Eastern Time
 			<b>Performance Modeling</b>
 			<br>11/18/2021</td>
 		<td>
-			<a href="/slides/11-performance.pdf">Lecture Slides</a> 
+			Lecture Slides
 		</td>
 	</tr>
 	<tr>
@@ -264,7 +266,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>11/25/2021
 		</td>
 		<td>
-			<a href="/slides/12-cloudapps.pdf">Lecture Slides</a>
+			Lecture Slides
 		</td>
 	</tr>
 	<tr>
@@ -276,7 +278,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>12/2/2020
 		</td>
 		<td>
-			<a href="/slides/13-big-data-iot-ml.pdf">Lecture Slides</a>
+			Lecture Slides
 		</td>
 	</tr>
 	<tr>
@@ -284,7 +286,7 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td>
 		<td>
-			<a href="/project/#milestone-4-final-report">Milestone 4: Final Report</a> - 12/14 -- <a href="/hw3/">Bonus HW3: Leader Election</a> - 12/10
+			<!-- <a href="/project/#milestone-4-final-report">Milestone 4: Final Report</a> - 12/14 -- <a href="/hw3/">Bonus HW3: Leader Election</a> - 12/10-->
 		</td>
 	</tr>
 </table>
