@@ -276,7 +276,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Internet of Things and Big Data</b>
-			<br>12/2/2020
+			<br>12/2/2021
 		</td>
 		<td>
 			Lecture Slides
