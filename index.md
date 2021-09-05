@@ -75,7 +75,7 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td> 
 		<td>
-			<a href="/readings.html">Readings in Chapters 1, 3</a> -- Watch <!--<a href="https://gwu.box.com/s/uykp9ouz6fqc8d3psmehq46swmn7i4gm">-->Azure HWaaS Video</a> -- <a href="hw1/">HW1: Parallel Sum</a> due Tuesday 9/15
+			<a href="/readings.html">Readings in Chapters 1, 3</a> -- Watch <!--<a href="https://gwu.box.com/s/uykp9ouz6fqc8d3psmehq46swmn7i4gm">-->Azure HWaaS Video <!--</a> -- <a href="hw1/">--> HW1: Parallel Sum <!--</a>--> due 9/15 
 		</td>
 	</tr>
 	<tr>
@@ -126,7 +126,7 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td> 
 		<td>
-			<a href="hw2/">HW2: Map Reduce</a> due 10/1, -10 points by 10/8 -- <a href="https://youtu.be/ZcaQ7yLAYwM">MapReduce Help Video</a> -- <a href="/project/#milestone-1-select-a-topic">Milestone 1: Select a Topic</a> - 10/10
+			<!--<a href="hw2/">HW2: Map Reduce</a> due 10/1, -10 points by 10/8 -- <a href="https://youtu.be/ZcaQ7yLAYwM">MapReduce Help Video</a> -- <a href="/project/#milestone-1-select-a-topic">Milestone 1: Select a Topic</a> - 10/10-->
 		</td>
 	</tr>
 	<tr>
@@ -143,7 +143,7 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td> 
 		<td>
-			<a href="hw2/">HW2: Map Reduce</a> -10 points by 10/8 -- <a href="https://forms.gle/JreBDrJz2LVfX8A8A">Partner Feedback Form</a> 
+			<!-- <a href="hw2/">HW2: Map Reduce</a> -10 points by 10/8 -- <a href="https://forms.gle/JreBDrJz2LVfX8A8A">Partner Feedback Form</a> -->
 		</td>
 	</tr>
 </table>
@@ -202,7 +202,7 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td>
 		<td>
-			<a href="/readings.pdf">Readings in Chapter 8</a> -- <a href="/project/#milestone-2-literature-review">Milestone 2: Literature Review</a> - 10/29
+			<a href="/readings.pdf">Readings in Chapter 8</a> <!-- -- <a href="/project/#milestone-2-literature-review">Milestone 2: Literature Review</a> - 10/29 -->
 		</td>
 	</tr>
 	<tr>
@@ -219,7 +219,8 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td>
 		<td>
-			<a href="/readings.pdf">Readings in Chapter 7</a> -- <a href="/project/#milestone-3-design-document">Milestone 3: Design Document</a> - 11/5	</td>
+			<a href="/readings.pdf">Readings in Chapter 7</a> <!-- -- <a href="/project/#milestone-3-design-document">Milestone 3: Design Document</a> - 11/5	-->
+		</td>
 	</tr>
 	<tr>
 		<td>
