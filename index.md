@@ -1,15 +1,13 @@
+
 ---
 layout: home
 
 ---
-<head>
-	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-</head>
 
 <div class="wrapper" markdown="0"><div class="footer-col-wrapper">
 <div class="footer-col two-col-2">
 	<ul class="contact-list">
-		<li><b>Prof. Roozbeh Haghnazar</b></li>
+		<li><b>Prof. Roozbeh Haghnaza</b></li>
 		<li><a href="mailto:roozbeh@gwu.edu">roozbeh@gwu.edu</a></li>
 		<li>Office Hours: Will be announced, check #office-hours</li>
 		<li>Section 10 & 11</li>
