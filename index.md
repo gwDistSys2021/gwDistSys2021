@@ -1,9 +1,10 @@
-
 ---
 layout: home
 
 ---
-
+<head>
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
 <div class="wrapper" markdown="0"><div class="footer-col-wrapper">
 <div class="footer-col two-col-2">
 	<ul class="contact-list">
