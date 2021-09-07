@@ -49,7 +49,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>9/2/2021
 		</td>
 		<td>
-			<a href="/slides/1- introduction.pdf">Lecture Slides</a> 
+			<a href="/slides/1-introduction.pdf">Lecture Slides</a> 
 		</td>
 	</tr>
 	<tr>
