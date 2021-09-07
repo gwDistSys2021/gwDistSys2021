@@ -1,6 +1,5 @@
-<head>
-	<link rel="shortcut icon" type="image/x-icon" href="/favicon_package_v0.16/favicon.ico">
-</head>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 <div class="wrapper" markdown="0"><div class="footer-col-wrapper">
 <div class="footer-col two-col-2">
 	<ul class="contact-list">
@@ -49,7 +48,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>9/2/2021
 		</td>
 		<td>
-			<a href="/slides/1-introduction.pdf">Lecture Slides</a> 
+			<a href="./slides/1-introduction21.pdf">Lecture Slides</a> 
 		</td>
 	</tr>
 	<tr>
