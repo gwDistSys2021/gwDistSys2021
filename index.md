@@ -74,7 +74,7 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td> 
 		<td>
-			<a href="/readings.html">Readings in Chapters 1, 3</a> -- Watch <!--<a href="https://gwu.box.com/s/uykp9ouz6fqc8d3psmehq46swmn7i4gm">-->Azure HWaaS Video <!--</a> -- <a href="hw1/">--> HW1: Parallel Sum <!--</a>--> due 9/15 
+			<a href="/readings.html">Readings in Chapters 1, 3</a> -- Watch <!--<a href="https://gwu.box.com/s/uykp9ouz6fqc8d3psmehq46swmn7i4gm">-->Azure HWaaS Video </a> -- <a href="hw1/"> HW1: Parallel Sum </a> due 9/17
 		</td>
 	</tr>
 	<tr>
