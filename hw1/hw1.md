@@ -5,7 +5,7 @@ permalink: /hw1/
 ---
 
 > Deadline: Tuesday 9/17/2021
-> GitHub Repo Setup: [https://classroom.github.com/a/4Mb4nNod](https://classroom.github.com/a/4Mb4nNod)
+> GitHub Repo Setup: [https://classroom.github.com/a/UnbxeAxT](https://classroom.github.com/a/UnbxeAxT)
 > 
 > This assignment must be completed **individually**. You **MAY NOT** share your code for this assignment with any other student. It is acceptable to provide high level advice about relevant go libraries and tools, but you should not be explaining to other students how to solve the problem, nor should you be searching the internet for solutions.
 
