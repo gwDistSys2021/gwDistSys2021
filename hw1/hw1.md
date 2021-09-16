@@ -127,7 +127,7 @@ When you are finished with your assignment follow these steps:
   1. Make sure your code doesn't have any extraneous outputs and matches the requirements above
   2. Commit and Push your code, check the github interface to be sure it is there
   3. (Optional) You can check whether your code passes our test cases on the GitHub website by going to Actions -> Autograding and then checking the `Run education/autograding@v1` test. If any part of the test fails, then the whole test will be marked as failed. However, when grading we will check each test individually.
-  4. (**IMPORTANT**) Go to the Issues page of your repository and create a new Issue. The title of the issue should be your full name. Add a comment that says `@HuadongHu code is ready to review`.  If any aspects of your code are incomplete or not working, you should explain which parts have a problem in your comment.
+  4. (**IMPORTANT**) Go to the Issues page of your repository and create a new Issue. The title of the issue should be your full name. Add a comment that says `@An-Zheng code is ready to review`.  If any aspects of your code are incomplete or not working, you should explain which parts have a problem in your comment.
 
 Failure to follow the above steps will cause you to lose points.
 
