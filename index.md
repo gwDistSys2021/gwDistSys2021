@@ -99,7 +99,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>9/23/2021
 		</td>
 		<td>
-			Lecture Slides 
+			<a href="./slides/4-Architectures.pdf">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
