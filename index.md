@@ -116,7 +116,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>9/30/2021
 		</td>
 		<td>
-			Lecture Slides
+			<a href="./slides/5-Scheduling and LB.pdf">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
@@ -124,6 +124,7 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td> 
 		<td>
+			Please read <a href="project/">Final Project Instruction and Milestones</a> 
 			<!--<a href="hw2/">HW2: Map Reduce</a> due 10/1, -10 points by 10/8 -- <a href="https://youtu.be/ZcaQ7yLAYwM">MapReduce Help Video</a> -- <a href="/project/#milestone-1-select-a-topic">Milestone 1: Select a Topic</a> - 10/10-->
 		</td>
 	</tr>

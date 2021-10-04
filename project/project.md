@@ -13,19 +13,19 @@ For your final project you will investigate a research challenge in distributed 
 You have about two months to complete the project so it should be more significant than a standard programming assignment, while still being feasible to complete within that time frame. The project will be broken into milestones.
 
 **Due Dates:**
-  - [Milestone 0: Form a Team](#milestone-0-form-a-team) - 10/12 
-  - [Milestone 1: Select a Topic](#milestone-1-select-a-topic) - 10/19 (10 points)
-  - [Milestone 2: Literature Survey](#milestone-2-literature-review) - 10/29 (40 points)
-  - [Milestone 3: Design Document](#milestone-3-design-document) - 11/8 (50 points)
+  - [Milestone 0: Form a Team](#milestone-0-form-a-team) - 10/7 
+  - [Milestone 1: Select a Topic](#milestone-1-select-a-topic) - 10/10 (10 points)
+  - [Milestone 2: Literature Survey](#milestone-2-literature-review) - 10/19 (40 points)
+  - [Milestone 3: Design Document](#milestone-3-design-document) - 11/5 (50 points)
   - [Milestone 4: Final Presentation](#milestone-4-final-report) - 12/14 (100 points)
 
 ---
 
 ## Milestone 0: Form a team 
 
-  - Due 10/12 - earlier if possible
+  - Due 10/7 - earlier if possible
 
-You must form a team of 3-4 students. We suggest teams have 4 members if possible. All members are expected to contribute equally to the project, although different students may have specialized roles. However, all students should at least partially contribute to both the coding and writing portions of the project. One student should be selected as the team leader who will act as the main contact point of the group.
+You must form a team of 3-4 students. I suggest teams have 4 members if possible for the small teams. All members are expected to contribute equally to the project, although different students may have specialized roles. However, all students should at least partially contribute to both the coding and writing portions of the project. One student should be selected as the team leader who will act as the main contact point of the group.
 
 When you form a team you do not yet need to have selected a project idea, however it is best if you decide an area (or areas) you want to work in and be sure all team members agree. See the sample projects under Milestone 1 for more details.
 
@@ -39,7 +39,7 @@ When you form a team you do not yet need to have selected a project idea, howeve
 
 ## Milestone 1: Select a topic 
  
- - Due 10/19 - earlier if possible
+ - Due 10/10 - earlier if possible
 
 > We strongly encourage you to complete Milestones 0 and 1 early. If you submit Milestone 1 at least 4 days early you will receive a 5 point bonus to your report grade.
 
@@ -135,7 +135,7 @@ The output of this report will be the fundamental basis of the next Milestone. F
 
 ## Milestone 3: Design Document
 
-> The deadline has been extended until 11:59PM Sunday November 8th.
+> The deadline has been extended until 11:59PM Sunday November 5th.
 
 The design document should be composed of sections as follows:
 
