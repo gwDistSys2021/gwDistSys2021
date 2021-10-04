@@ -18,7 +18,7 @@
 
 ## Announcements ##
 - We will make decision about the exams in the first session
-- The [Final Project](/project/) Milestones will be announced.
+- The [Final Project](./project/) Milestones will be announced.
 - If you have feedback for us, please [fill out this anonymous form!](https://forms.gle/gWCbGB7TRMbPqZxt5)
 - Check the [Syllabus](syllabus/) for more info.
 - Both sections 10 and 11 of CSCI 6421 will meet together *as one class*. You can register for either section with no difference. 
