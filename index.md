@@ -134,7 +134,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>10/7/2021
 		</td>
 		<td>
-			Lecture Slides
+			<a href="./slides/6-Migration.pdf">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
