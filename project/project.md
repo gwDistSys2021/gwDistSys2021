@@ -31,7 +31,7 @@ When you form a team you do not yet need to have selected a project idea, howeve
 
 **Submission Instructions:**
   - First, pick a team name. Your team name *must* be that of a famous scientist, e.g., `Galileo` or `MarieCurie`. Pick someone interesting, inspiring, and unique.
-  - The team leader should [create the team repository using GitHub Classrooms](https://classroom.github.com/g/B99Tq4-9), entering the chosen team name. Make sure that nobody else has already picked your name!  Other team members should then join the team. *It is hard for us to delete teams or move people between them, so be careful and don't join the wrong team! We may deduct points if you cause us extra work.*
+  - The team leader should [create the team repository using GitHub Classrooms](https://classroom.github.com/a/-8F7WP59), entering the chosen team name. Make sure that nobody else has already picked your name!  Other team members should then join the team. *It is hard for us to delete teams or move people between them, so be careful and don't join the wrong team! We may deduct points if you cause us extra work.*
   - Fill in the `README.md` file in the repository with your team members, team name, and optionally a brief description of the project idea(s) you are considering
   - Create an Issue in your repository once your readme is complete. The title of the issue should be `Milestone 0 - TEAM NAME` (with your team name filled in). The body of the issue should list the team member names with leader first.
 
