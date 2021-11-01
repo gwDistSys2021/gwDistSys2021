@@ -208,6 +208,7 @@ All deadlines are 11:59PM Eastern Time
 		<td>
 			<b>Replication</b>
 			<br>11/4/2021
+			<a href="hw2/">HW2: Map Reduce</a> due 11/21
 		</td>
 		<td>
 			Lecture Slides<!-- -- <a href="slides/10-consistency-problems.pdf">Consistency Problems Worksheet</a> -->
