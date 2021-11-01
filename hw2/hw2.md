@@ -4,7 +4,7 @@ title: "HW2: Map Reduce"
 permalink: /hw2/
 ---
 
-> Deadline: Tuesday 10/1/2020
+> Deadline: Tuesday 11/21/2020
 > GitHub Repo Setup: [https://classroom.github.com/a/k6kZp9et](https://classroom.github.com/a/k6kZp9et)
 > This assignment must be completed in **groups of 1-4 students**. 
 
@@ -214,7 +214,7 @@ Push your finalized code to github, but
   * Your team name and members
   * Which team members contributed which parts
   * If any aspects of your code are incomplete or not working, you should explain which parts have a problem.
-  * Then tag the graders in the issue using their github usernames (`@HuadongHu and @freebyron`).
+  * Then tag the graders in the issue using their github usernames (`@An-Zheng`).
 
 
 **UPDATED Late Policy:** Assignments submitted after the deadline but before 11:59PM on October 8th will only lose 10 points total. Late submissions after that will lose an additional 5 points per 24 hour period.  If you make any commits to your repository after the deadline, the submission will be considered late unless you have already coordinated this with the instructors. **If you submit more than 2 weeks late you must contact the instructor for approval!**
