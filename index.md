@@ -156,10 +156,10 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td style="width:20%">
 			<b>Clocks and Timing</b>
-			<br>10/14/2021
+			<br>10/21/2021
 		</td>
 		<td>
-			Lecture Slides <!-- -- <a href="/clock-worksheet.pdf">Clock Worksheet</a> and <a href="https://youtu.be/IAI712Kk-O8">Solution Video</a>-->
+			<a href="./slides/7-Timing-clocking.pdf">Lecture Slides </a> and <a href="https://youtu.be/IAI712Kk-O8">Video</a>
 		</td>
 	</tr>
 	<tr>
@@ -173,10 +173,10 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Distributed Coordination</b>
-			<br>10/21/2021
+			</br>10/28/2021
 		</td>
 		<td>
-			Lecture Slides
+			<a href="./slides/8-Coordination.pdf">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
@@ -184,13 +184,13 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td>
 		<td>
-			<a href="/readings.pdf">Readings in Chapter 6</a>
+			<a href="/readings.pdf">Readings in Chapter 6</a> and <a href="hw2/">HW2: Map Reduce</a> due 11/21, -10 points by 10/8 -- <a href="https://youtu.be/ZcaQ7yLAYwM">MapReduce Help Video</a>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<b>Fault Tolerance</b>
-			<br>10/28/2021
+			<br>11/04/2021
 		</td>
 		<td>
 			Lecture Slides
@@ -207,7 +207,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Replication</b>
-			<br>11/4/2021
+			<br>11/11/2021
 		</td>
 		<td>
 			Lecture Slides<!-- -- <a href="slides/10-consistency-problems.pdf">Consistency Problems Worksheet</a> -->
@@ -224,7 +224,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Midterm Exam</b>
-			<br>11/11/2021</td>
+			<br>11/18/2021</td>
 		<td>
 			<a href="exam/sample-exam.pdf">Practice problems</a>
 		</td>
