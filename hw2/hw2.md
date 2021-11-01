@@ -6,7 +6,7 @@ permalink: /hw2/
 
 > Deadline: Tuesday 11/21/2020
 > GitHub Repo Setup: [https://classroom.github.com/a/k6kZp9et](https://classroom.github.com/a/k6kZp9et)
-> This assignment must be completed in **groups of 1-4 students**. 
+> This assignment must be completed in **groups of 1-2 students**. 
 
 ## Introduction
 
