@@ -217,6 +217,6 @@ Push your finalized code to github, but
   * Then tag the graders in the issue using their github usernames (`@An-Zheng`).
 
 
-**UPDATED Late Policy:** Assignments submitted after the deadline but before 11:59PM on October 8th will only lose 10 points total. Late submissions after that will lose an additional 5 points per 24 hour period.  If you make any commits to your repository after the deadline, the submission will be considered late unless you have already coordinated this with the instructors. **If you submit more than 2 weeks late you must contact the instructor for approval!**
+**UPDATED Late Policy:** Assignments submitted after the deadline but before 11:59PM on November 28th will only lose 10 points total. Late submissions after that will lose an additional 5 points per 24 hour period.  If you make any commits to your repository after the deadline, the submission will be considered late unless you have already coordinated this with the instructors. **If you submit more than 2 weeks late you must contact the instructor for approval!**
 
 > **Acknowledgments:** This assignment is adapted from the MIT 6.824 Distributed Systems course, which was developed by Robert Morris, Frans Kaashoek, and Nickolai Zeldovich.
