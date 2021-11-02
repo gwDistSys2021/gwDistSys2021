@@ -181,7 +181,7 @@ Your report should be approximately 3-6 pages long. You should follow the same f
 
   - Save your document as `milestone-3/design.pdf`, then create an issue with a link to the document and assign it to the professors when you are ready to submit. 
   - We suggest storing copies of your design diagrams and the source files used to generate the PDF (i.e., the word or latex files) in the repository too
-  - In consultation with the group members, the leader should prepare a [Phase Time Sheet](phase-n-time-sheet.xlsx) and save it as `milestone-2/phase-2-time-sheet.xlsx`
+  - In consultation with the group members, the leader should prepare a [Phase Time Sheet](phase-n-time-sheet.xlsx) and save it as `milestone-3/phase-3-time-sheet.xlsx`
  - If any team members have concerns about how work is being divided up in the group or are experiencing problems with their partners, complete the [Partner Feedback form](https://forms.gle/qfy7M9PGvJKPxDyz6)
 
 
