@@ -16,8 +16,8 @@ You have about two months to complete the project so it should be more significa
   - [Milestone 0: Form a Team](#milestone-0-form-a-team) - 10/7 
   - [Milestone 1: Select a Topic](#milestone-1-select-a-topic) - 10/10 (10 points)
   - [Milestone 2: Literature Survey](#milestone-2-literature-review) - 10/20 (40 points)
-  - [Milestone 3: Design Document](#milestone-3-design-document) - 11/5 (50 points)
-  - [Milestone 4: Final Presentation](#milestone-4-final-report) - 12/14 (100 points)
+  - [Milestone 3: Design Document](#milestone-3-design-document) - 11/9 (50 points)
+  - [Milestone 4: Final Presentation](#milestone-4-final-report) - 12/18 (100 points)
 
 ---
 
@@ -135,7 +135,7 @@ The output of this report will be the fundamental basis of the next Milestone. F
 
 ## Milestone 3: Design Document
 
-> The deadline has been extended until 11:59PM  November 5th.
+> The deadline has been extended until 11:59PM  November 9th.
 
 The design document should be composed of sections as follows:
 
@@ -217,7 +217,7 @@ The simplest way to create your video is to have your team members join a Zoom/S
 
 ### Submission and Deadline
 
-Your final submission **must be made by December 22nd, 5PM**. However, we will award **1 extra bonus point** to your project for each day early that you submit, up to 8 points extra if you submit by the original deadline of December 14th 11:59PM.
+Your final submission **must be made by December 22nd, 5PM**. However, we will award **1 extra bonus point** to your project for each day early that you submit, up to 8 points extra if you submit by the original deadline of December 18th 11:59PM.
 
 To submit, complete the following steps:
   - All of your code and written reports should be in your GitHub Repository. The final report should be in the `milestone-4/` folder.
