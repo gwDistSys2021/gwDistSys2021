@@ -218,7 +218,7 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td>
 		<td>
-			<a href="/readings.pdf">Readings in Chapter 7</a> -- <a href="/project/#milestone-3-design-document">Milestone 3: Design Document</a> - 11/5
+			<a href="./readings.pdf">Readings in Chapter 7</a> -- <a href="./project/#milestone-3-design-document">Milestone 3: Design Document</a> - 11/9
 		</td>
 	</tr>
 	<tr>
