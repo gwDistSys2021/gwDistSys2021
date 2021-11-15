@@ -15,9 +15,9 @@ You have about two months to complete the project so it should be more significa
 **Due Dates:**
   - [Milestone 0: Form a Team](#milestone-0-form-a-team) - 10/7 
   - [Milestone 1: Select a Topic](#milestone-1-select-a-topic) - 10/10 (10 points)
-  - [Milestone 2: Literature Survey](#milestone-2-literature-review) - 10/19 (40 points)
-  - [Milestone 3: Design Document](#milestone-3-design-document) - 11/5 (50 points)
-  - [Milestone 4: Final Presentation](#milestone-4-final-report) - 12/14 (100 points)
+  - [Milestone 2: Literature Survey](#milestone-2-literature-review) - 10/20 (40 points)
+  - [Milestone 3: Design Document](#milestone-3-design-document) - 11/9 (50 points)
+  - [Milestone 4: Final Presentation](#milestone-4-final-report) - 12/18 (100 points)
 
 ---
 
@@ -31,7 +31,7 @@ When you form a team you do not yet need to have selected a project idea, howeve
 
 **Submission Instructions:**
   - First, pick a team name. Your team name *must* be that of a famous scientist, e.g., `Galileo` or `MarieCurie`. Pick someone interesting, inspiring, and unique.
-  - The team leader should [create the team repository using GitHub Classrooms](https://classroom.github.com/g/B99Tq4-9), entering the chosen team name. Make sure that nobody else has already picked your name!  Other team members should then join the team. *It is hard for us to delete teams or move people between them, so be careful and don't join the wrong team! We may deduct points if you cause us extra work.*
+  - The team leader should [create the team repository using GitHub Classrooms](https://classroom.github.com/a/-8F7WP59), entering the chosen team name. Make sure that nobody else has already picked your name!  Other team members should then join the team. *It is hard for us to delete teams or move people between them, so be careful and don't join the wrong team! We may deduct points if you cause us extra work.*
   - Fill in the `README.md` file in the repository with your team members, team name, and optionally a brief description of the project idea(s) you are considering
   - Create an Issue in your repository once your readme is complete. The title of the issue should be `Milestone 0 - TEAM NAME` (with your team name filled in). The body of the issue should list the team member names with leader first.
 
@@ -55,7 +55,7 @@ We will not permit two groups to work on the same project idea. Precedence will 
 **Submission Instructions:**
   - Your writeup must be in [Markdown format](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and saved in the file `milestone-1/README.md` 
   - Create an issue with title `Milestone 1 - TEAM NAME` and the body should have a link to your report file.
-  - Click the button on the top right side of the Issue view to *Assign* the issue to both professors
+  - Click the button on the top right side of the Issue view to *Assign* the issue to Professor Roozbeh Haghnazar.
 
 #### Sample Project Ideas - Research Focused
 
@@ -135,7 +135,7 @@ The output of this report will be the fundamental basis of the next Milestone. F
 
 ## Milestone 3: Design Document
 
-> The deadline has been extended until 11:59PM Sunday November 5th.
+> The deadline has been extended until 11:59PM  November 9th.
 
 The design document should be composed of sections as follows:
 
@@ -181,7 +181,7 @@ Your report should be approximately 3-6 pages long. You should follow the same f
 
   - Save your document as `milestone-3/design.pdf`, then create an issue with a link to the document and assign it to the professors when you are ready to submit. 
   - We suggest storing copies of your design diagrams and the source files used to generate the PDF (i.e., the word or latex files) in the repository too
-  - In consultation with the group members, the leader should prepare a [Phase Time Sheet](phase-n-time-sheet.xlsx) and save it as `milestone-2/phase-2-time-sheet.xlsx`
+  - In consultation with the group members, the leader should prepare a [Phase Time Sheet](phase-n-time-sheet.xlsx) and save it as `milestone-3/phase-3-time-sheet.xlsx`
  - If any team members have concerns about how work is being divided up in the group or are experiencing problems with their partners, complete the [Partner Feedback form](https://forms.gle/qfy7M9PGvJKPxDyz6)
 
 
@@ -217,7 +217,7 @@ The simplest way to create your video is to have your team members join a Zoom/S
 
 ### Submission and Deadline
 
-Your final submission **must be made by December 22nd, 5PM**. However, we will award **1 extra bonus point** to your project for each day early that you submit, up to 8 points extra if you submit by the original deadline of December 14th 11:59PM.
+Your final submission **must be made by December 22nd, 5PM**. However, we will award **1 extra bonus point** to your project for each day early that you submit, up to 8 points extra if you submit by the original deadline of December 18th 11:59PM.
 
 To submit, complete the following steps:
   - All of your code and written reports should be in your GitHub Repository. The final report should be in the `milestone-4/` folder.
