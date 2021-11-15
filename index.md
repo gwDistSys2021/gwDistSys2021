@@ -226,7 +226,7 @@ All deadlines are 11:59PM Eastern Time
 			<b>Midterm Exam</b>
 			<br>11/18/2021</td>
 		<td>
-			<a href="exam/sample-exam.pdf">Practice problems</a>
+			<a href="./exam/sample-exam.pdf">Practice problems</a>
 		</td>
 	</tr>
 	<tr>
