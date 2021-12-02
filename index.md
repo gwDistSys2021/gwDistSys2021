@@ -250,7 +250,7 @@ All deadlines are 11:59PM Eastern Time
 			<b>Performance Modeling</b>
 			<br>11/18/2021</td>
 		<td>
-			Lecture Slides
+			<a href="./slides/11-Performance.pdf"> Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
@@ -266,7 +266,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>11/25/2021
 		</td>
 		<td>
-			Lecture Slides
+			<a href="./slides/12-CloudApps.pdf"> Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
