@@ -221,9 +221,9 @@ Your final submission **must be made by December 20, 9:00 AM**.
 
 To submit, complete the following steps:
   - All of your code and written reports should be in your GitHub Repository. The final report should be in the `milestone-4/` folder.
-  - Your video should be uploaded using [this form](https://gwu.app.box.com/f/fdea26b01a164cf8af0843f886173d93). You **should not** include your video in your github repository since it is a large file.
+  - The video should be in the `milestone-4/` folder. And the name of the Video should includes your name.
   - In consultation with the group members, the leader should prepare a final [Phase Time Sheet](phase-n-time-sheet.xlsx) and save it as `milestone-4/phase-4-time-sheet.xlsx`
-  - If any team members have concerns about how work is being divided up in the group or are experiencing problems with their partners, complete the [Partner Feedback form](https://forms.gle/qfy7M9PGvJKPxDyz6). Ideally you should do this as early as possible!
-  - When the above steps are complete, create an issue in your repository and **Assign** it to both of the instructors to notify them that you are ready for grading. Include a link to your final report in your issue.
+  - If any team members have concerns about how work is being divided up in the group or are experiencing problems with their partners, please contract professor. Ideally you should do this as early as possible!
+  - When the above steps are complete, create an issue in your repository and **Assign** it to professor to notify him/her that you are ready for grading. Include a link to your final report in your issue.
 
 After that, have a great break and a successful future building distributed systems! We hope you have enjoyed the semester and learned a lot!
