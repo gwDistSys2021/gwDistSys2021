@@ -221,7 +221,8 @@ Your final submission **must be made by December 20, 9:00 AM**.
 
 To submit, complete the following steps:
   - All of your code and written reports should be in your GitHub Repository. The final report should be in the `milestone-4/` folder.
-  - The video should be in the `milestone-4/` folder. And the name of the Video should includes your name.
+  - The video should be in the `milestone-4/` folder. 
+  - The individual report should be in the `milestone-4/` folder. And the name of report should include your name.
   - In consultation with the group members, the leader should prepare a final [Phase Time Sheet](phase-n-time-sheet.xlsx) and save it as `milestone-4/phase-4-time-sheet.xlsx`
   - If any team members have concerns about how work is being divided up in the group or are experiencing problems with their partners, please contract professor. Ideally you should do this as early as possible!
   - When the above steps are complete, create an issue in your repository and **Assign** it to professor to notify him/her that you are ready for grading. Include a link to your final report in your issue.
