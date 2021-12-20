@@ -217,7 +217,7 @@ The simplest way to create your video is to have your team members join a Zoom/S
 
 ### Submission and Deadline
 
-Your final submission **must be made by December 18nd, 5PM**. However, we will award **1 extra bonus point** to your project for each day early that you submit, up to 8 points extra if you submit by the original deadline of December 18th 11:59PM.
+Your final submission **must be made by December 20, 9AM**. However, we will award **1 extra bonus point** to your project for each day early that you submit, up to 8 points extra if you submit by the original deadline of December 18th 11:59PM.
 
 To submit, complete the following steps:
   - All of your code and written reports should be in your GitHub Repository. The final report should be in the `milestone-4/` folder.
